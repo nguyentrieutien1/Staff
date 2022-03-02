@@ -1,0 +1,15 @@
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\bin\Debug\net6.0\NhanVien.exe
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\bin\Debug\net6.0\NhanVien.deps.json
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\bin\Debug\net6.0\NhanVien.runtimeconfig.json
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\bin\Debug\net6.0\NhanVien.dll
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\bin\Debug\net6.0\ref\NhanVien.dll
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\bin\Debug\net6.0\NhanVien.pdb
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\NhanVien.csproj.AssemblyReference.cache
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\NhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\NhanVien.AssemblyInfoInputs.cache
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\NhanVien.AssemblyInfo.cs
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\NhanVien.csproj.CoreCompileInputs.cache
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\NhanVien.dll
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\ref\NhanVien.dll
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\NhanVien.pdb
+C:\Users\civi_\Source\Repos\NhanVien\NhanVien\obj\Debug\net6.0\NhanVien.genruntimeconfig.cache
